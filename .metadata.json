@@ -1,0 +1,33 @@
+[
+  {
+    "package": "sequences",
+    "oncran": true
+  },
+  {
+    "package": "MSnbase"
+  },
+  {
+    "package": "Pbase"
+  },
+  {
+    "package": "pRoloc"
+  },
+  {
+    "package": "pRolocGUI"
+  },
+  {
+    "package": "ProteomicsAnnotationHubData"
+  },
+  {
+    "package": "qcmetrics"
+  },
+  {
+    "package": "rols"
+  },
+  {
+    "package": "rpx"
+  },
+  {
+    "package": "synapter"
+  }
+]
