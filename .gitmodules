@@ -13,11 +13,6 @@
 	url = https://github.com/lgatto/msnbase
 	shallow = true
 	registered = true
-[submodule "Pbase"]
-	path = Pbase
-	url = https://github.com/lgatto/pbase
-	shallow = true
-	registered = true
 [submodule "pRoloc"]
 	path = pRoloc
 	url = https://github.com/lgatto/proloc
