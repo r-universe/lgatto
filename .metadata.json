@@ -13,9 +13,6 @@
     "package": "pRolocGUI"
   },
   {
-    "package": "ProteomicsAnnotationHubData"
-  },
-  {
     "package": "qcmetrics"
   },
   {
@@ -26,5 +23,8 @@
   },
   {
     "package": "synapter"
+  },
+  {
+    "package": "ProteomicsAnnotationHubData"
   }
 ]
