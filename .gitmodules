@@ -43,8 +43,3 @@
 	url = https://github.com/lgatto/synapter
 	shallow = true
 	registered = true
-[submodule "ProteomicsAnnotationHubData"]
-	path = ProteomicsAnnotationHubData
-	url = https://github.com/lgatto/proteomicsannotationhubdata
-	shallow = true
-	registered = true
