@@ -4,19 +4,10 @@
     "oncran": true
   },
   {
-    "package": "MSnbase"
-  },
-  {
-    "package": "pRoloc"
-  },
-  {
     "package": "pRolocGUI"
   },
   {
-    "package": "rols"
-  },
-  {
-    "package": "rpx"
+    "package": "qcmetrics"
   },
   {
     "package": "synapter"

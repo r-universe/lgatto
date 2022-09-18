@@ -8,29 +8,14 @@
 	url = https://github.com/lgatto/sequences
 	shallow = true
 	registered = true
-[submodule "MSnbase"]
-	path = MSnbase
-	url = https://github.com/lgatto/msnbase
-	shallow = true
-	registered = true
-[submodule "pRoloc"]
-	path = pRoloc
-	url = https://github.com/lgatto/proloc
-	shallow = true
-	registered = true
 [submodule "pRolocGUI"]
 	path = pRolocGUI
 	url = https://github.com/lgatto/prolocgui
 	shallow = true
 	registered = true
-[submodule "rols"]
-	path = rols
-	url = https://github.com/lgatto/rols
-	shallow = true
-	registered = true
-[submodule "rpx"]
-	path = rpx
-	url = https://github.com/lgatto/rpx
+[submodule "qcmetrics"]
+	path = qcmetrics
+	url = https://github.com/lgatto/qcmetrics
 	shallow = true
 	registered = true
 [submodule "synapter"]
