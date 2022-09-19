@@ -4,10 +4,7 @@
     "oncran": true
   },
   {
-    "package": "pRolocGUI"
-  },
-  {
-    "package": "qcmetrics"
+    "package": "rpx"
   },
   {
     "package": "synapter"
