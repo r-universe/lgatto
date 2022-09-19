@@ -4,6 +4,21 @@
     "oncran": true
   },
   {
+    "package": "MSnbase"
+  },
+  {
+    "package": "pRoloc"
+  },
+  {
+    "package": "pRolocGUI"
+  },
+  {
+    "package": "qcmetrics"
+  },
+  {
+    "package": "rols"
+  },
+  {
     "package": "rpx"
   },
   {
