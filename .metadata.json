@@ -1,16 +1,9 @@
 [
   {
-    "package": "sequences",
-    "oncran": true
-  },
-  {
-    "package": "MSnbase"
-  },
-  {
     "package": "pRoloc"
   },
   {
-    "package": "pRolocGUI"
+    "package": "MSnbase"
   },
   {
     "package": "qcmetrics"
@@ -20,6 +13,13 @@
   },
   {
     "package": "rpx"
+  },
+  {
+    "package": "pRolocGUI"
+  },
+  {
+    "package": "sequences",
+    "oncran": true
   },
   {
     "package": "synapter"

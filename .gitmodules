@@ -3,24 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "sequences"]
-	path = sequences
-	url = https://github.com/lgatto/sequences
-	shallow = true
-	registered = true
-[submodule "MSnbase"]
-	path = MSnbase
-	url = https://github.com/lgatto/msnbase
-	shallow = true
-	registered = true
 [submodule "pRoloc"]
 	path = pRoloc
 	url = https://github.com/lgatto/proloc
 	shallow = true
 	registered = true
-[submodule "pRolocGUI"]
-	path = pRolocGUI
-	url = https://github.com/lgatto/prolocgui
+[submodule "MSnbase"]
+	path = MSnbase
+	url = https://github.com/lgatto/msnbase
 	shallow = true
 	registered = true
 [submodule "qcmetrics"]
@@ -36,6 +26,16 @@
 [submodule "rpx"]
 	path = rpx
 	url = https://github.com/lgatto/rpx
+	shallow = true
+	registered = true
+[submodule "pRolocGUI"]
+	path = pRolocGUI
+	url = https://github.com/lgatto/prolocgui
+	shallow = true
+	registered = true
+[submodule "sequences"]
+	path = sequences
+	url = https://github.com/lgatto/sequences
 	shallow = true
 	registered = true
 [submodule "synapter"]
