@@ -1,9 +1,12 @@
 [
   {
+    "package": "MSnbase"
+  },
+  {
     "package": "pRoloc"
   },
   {
-    "package": "MSnbase"
+    "package": "pRolocGUI"
   },
   {
     "package": "qcmetrics"
@@ -13,9 +16,6 @@
   },
   {
     "package": "rpx"
-  },
-  {
-    "package": "pRolocGUI"
   },
   {
     "package": "sequences",
