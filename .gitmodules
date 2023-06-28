@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "MSnbase"]
 	path = MSnbase
 	url = https://github.com/lgatto/msnbase
-	shallow = true
-	registered = true
 [submodule "pRoloc"]
 	path = pRoloc
 	url = https://github.com/lgatto/proloc
-	shallow = true
-	registered = true
 [submodule "pRolocGUI"]
 	path = pRolocGUI
 	url = https://github.com/lgatto/prolocgui
-	shallow = true
-	registered = true
 [submodule "qcmetrics"]
 	path = qcmetrics
 	url = https://github.com/lgatto/qcmetrics
-	shallow = true
-	registered = true
 [submodule "rols"]
 	path = rols
 	url = https://github.com/lgatto/rols
-	shallow = true
-	registered = true
 [submodule "rpx"]
 	path = rpx
 	url = https://github.com/lgatto/rpx
-	shallow = true
-	registered = true
 [submodule "sequences"]
 	path = sequences
 	url = https://github.com/lgatto/sequences
-	shallow = true
-	registered = true
 [submodule "synapter"]
 	path = synapter
 	url = https://github.com/lgatto/synapter
-	shallow = true
-	registered = true
