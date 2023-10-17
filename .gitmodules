@@ -20,9 +20,6 @@
 [submodule "rpx"]
 	path = rpx
 	url = https://github.com/lgatto/rpx
-[submodule "sequences"]
-	path = sequences
-	url = https://github.com/lgatto/sequences
 [submodule "synapter"]
 	path = synapter
 	url = https://github.com/lgatto/synapter
